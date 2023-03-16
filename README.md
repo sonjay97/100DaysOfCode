@@ -11,3 +11,8 @@
 - Pattern Maker Using The Alphabet in C++
 - A simple project using nested for loops to print a right triangle made of letters!
 - This project in C++ is a little bit more advanced than the day one project and uses nested for loops to create a right triangle pattern. Check out my instagram for more details on how this code works. 
+
+### Day Three: 
+- A program that computes how much a customer has to pay after purchasing two items!
+- A simple project that uses if/else statements and basic math to calculate what a customer owes.
+- This project in C++ is a little bit more advanced than the day one project and uses math that is a little more complex. Still, it is a great way to get your feet wet with coding in C++!
