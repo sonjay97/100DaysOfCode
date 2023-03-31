@@ -27,3 +27,8 @@
 ### Day Eight: 
 - A program that prints triangles made out of "*" but using recursion instead of nested for loops!
 - much wow
+
+### Day Nine: 
+- How much do you know about Object Oriented Programming? 
+- This is a basic exercise in OOP that demonstrates how different classes can be given different attributes and functions to virtually make a program do     anything you need it to!
+- incredible
